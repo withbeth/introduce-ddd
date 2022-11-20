@@ -1,4 +1,4 @@
-## [DDD Start 3/E 스터디]
+## [DDD Introduce 스터디]
 
 ## Rule
 
