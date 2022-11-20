@@ -18,7 +18,7 @@
 - 조영호님의 OO->DDD : https://www.slideshare.net/baejjae93
 
 ## Agenda
-- [11/20] [1. What is Domain Model? Entity, Value, ReferenceObject](1.DomainModel-Entity-Value.md)
+- [x] [1. What is Domain Model? Entity, Value, ReferenceObject](1.DomainModel-Entity-Value.md) (11/20)
 - [ ] 2. 아키텍처의 4영역과 DIP패턴, 도메인 영역의 구성요소
     - 아키텍처의 4영역 : Presentation / 응용 서비스 / 도메인 계층 / Infra 계층
 - [ ] !IMPORTANT 3. Aggregate(도메인 모델을 관리 간으한 단위로 묶어 주는 역할), How to implement?
